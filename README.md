@@ -1,2 +1,0 @@
-# arrowfunctions
-Created with CodeSandbox
